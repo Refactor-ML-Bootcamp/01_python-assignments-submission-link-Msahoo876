@@ -1,0 +1,19 @@
+MPG Cars
+Introduction:
+The following exercise utilizes data from UC Irvine Machine Learning Repository
+
+Step 1. Import the necessary libraries
+ 
+Step 2. Import the first dataset cars1 and cars2.
+Step 3. Assign each to a variable called cars1 and cars2
+ 
+Step 4. Oops, it seems our first dataset has some unnamed blank columns, fix cars1
+ 
+Step 5. What is the number of observations in each dataset?
+ 
+Step 6. Join cars1 and cars2 into a single DataFrame called cars
+ 
+Step 7. Oops, there is a column missing, called owners. Create a random number Series from 15,000 to 73,000.
+ 
+Step 8. Add the column owners to cars
+ 
