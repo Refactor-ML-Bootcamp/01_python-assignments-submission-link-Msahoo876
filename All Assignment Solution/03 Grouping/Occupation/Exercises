@@ -1,0 +1,19 @@
+Occupation
+Introduction:
+Special thanks to: https://github.com/justmarkham for sharing the dataset and materials.
+
+Step 1. Import the necessary libraries
+ 
+Step 2. Import the dataset from this address.
+Step 3. Assign it to a variable called users.
+ 
+Step 4. Discover what is the mean age per occupation
+ 
+Step 5. Discover the Male ratio per occupation and sort it from the most to the least
+ 
+Step 6. For each occupation, calculate the minimum and maximum ages
+ 
+Step 7. For each combination of occupation and gender, calculate the mean age
+ 
+Step 8. For each occupation present the percentage of women and men
+ 
