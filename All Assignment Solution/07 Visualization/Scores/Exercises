@@ -1,0 +1,24 @@
+Scores
+Introduction:
+This time you will create the data.
+
+*Exercise based on Chris Albon work, the credits belong to him.*
+
+Step 1. Import the necessary libraries
+ 
+Step 2. Create the DataFrame that should look like the one below.
+ 
+first_name	last_name	age	female	preTestScore	postTestScore
+0	Jason	Miller	42	0	4	25
+1	Molly	Jacobson	52	1	24	94
+2	Tina	Ali	36	1	31	57
+3	Jake	Milner	24	0	2	62
+4	Amy	Cooze	73	1	3	70
+Step 3. Create a Scatterplot of preTestScore and postTestScore, with the size of each point determined by age
+Hint: Don't forget to place the labels
+ 
+Step 4. Create a Scatterplot of preTestScore and postTestScore.
+This time the size should be 4.5 times the postTestScore and the color determined by sex
+ 
+BONUS: Create your own question and answer it.
+ 
