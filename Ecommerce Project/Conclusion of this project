@@ -1,0 +1,8 @@
+Conclusion of this project :-
+-----------------------------
+based on feature importance bar plot we can find that time spend on the app is more important as compare to time spend on web that conclude that we should focus more 
+on app as campare to web but we should not abandon the web too.
+
+ElasticNet with scaled feature work best as a model best on the r2_score.
+R2 Score of this project is 0.9861
+
